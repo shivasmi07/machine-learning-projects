@@ -65,4 +65,4 @@ MLP and SVR demonstrated consistency and non-linear pattern capture, while Decis
 - `SVR.ipynb` – Implements Support Vector Regression with tuning and evaluation  
 - `Perceptron.ipynb` – Perceptron regression model with hyperparameter tuning  
 - `Decisiontree.ipynb` – Decision Tree Regressor with depth tuning and error analysis  
-- `Pipeline.ipynb` – Unified comparison of all three models: SVR, MLP, and Decision Tree  
+- `Pipeline.ipynb` – Unified comparison of all three models: SVR, Perceptron, and Decision Tree  
