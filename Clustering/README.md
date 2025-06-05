@@ -64,3 +64,5 @@ The null hypothesis is rejected. Both K-Means and Hierarchical clustering produc
 - `KMeans.ipynb` – Standalone KMeans implementation  
 - `Hierarchical.ipynb` – Agglomerative clustering with dendrogram  
 - `Pipeline.ipynb` – Unified comparison of both methods
+- `Preprocessing.ipynb` – Data cleaning, encoding, robust scaling.  
+
